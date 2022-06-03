@@ -2,7 +2,7 @@
 - 👀 I’m interested in  aprender novos  idiomas
 - 🌱 I’m currently learning materias do ensino medio
 - 💞️ I’m looking to collaborate on adiquir novos conhecimentos e culturas
-- 📫 How to reach me ...
+- 📫 How to reach me palloma.santos.487@gmail.com 
 
 <!---
 pallominhasantos/pallominhasantos is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
