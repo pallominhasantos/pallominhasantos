@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @pallominhasantos
 - 👀 I’m interested in  aprender novos  idiomas
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning materias do ensino medio
+- 💞️ I’m looking to collaborate on adiquir novos conhecimentos e culturas
 - 📫 How to reach me ...
 
 <!---
